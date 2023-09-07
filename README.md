@@ -1,1 +1,3 @@
 # kanban
+
+minimalistic kanban board
